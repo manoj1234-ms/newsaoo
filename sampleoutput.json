@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "POLITICO",
+        "title": "Recount confirms Bob Good’s loss after GOP rallies to oust one of their own - POLITICO",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT1o5aTBTOEs5TFVPSHZETHhIdjI0TWIyZGVtX2VJTnNETUlBOFcyV0FnRE1jZ2lWVHE5V1ZhbWJVUnN6clhiQlEyaXdMZUhwa2l3cHk1THVtQWNtSklscWs2alY1bnhxY3ZBUDZ2ZlVxaFRQVEF3bWNZTkJtM042bGM4QkZ2TnI1ME9JVkpjOWQ1Uno5RjdGbVM1aENqeXJHM2xmMUN6MmQ2RC1ldGtldFFTZTYwanR4SXBlSmx2Rm5Fdw?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-08-02T02:19:03Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "The Wall Street Journal",
+        "title": "Apple’s iPhone Sales Slide, but Investors Still Expect AI Rally - The Wall Street Journal",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EZ0lpczhWOTl4S0ZfR1paX244cENCdmZwNGdjZnNEYjJnMGxBM21NazYxTGxnS3lqZ1lDLXB4R19tNHhEQXc5cmQ5ZmJUNkxUR2FBLVllSHlkdmZIQjhZOW85ZHpDMXB2ZHNFMmxZOHZrUGdqY0lR?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-08-02T02:09:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "The New York Times",
+        "title": "Gloria Johnson, Tennessee Democrat Who Faced Expulsion, Wins U.S. Senate Primary - The New York Times",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBiaVdjUG92UWN5QzJFN191bHJFeWZyX0hhWXBPeE1YdllabjBZQ3h5SjZ1V19vWndkRWNXOTZmYkVHYzJUV0FyTnZCRUFvallEY1BpbE1qYzdnZ3dCdnZqYmhvUDMxUUxweDJnOUVfMG5SY09OcUdNRWcxNHFndw?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-08-02T01:55:08Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "USA TODAY",
+        "title": "Families react to 9/11 plea deals that finally arrive after 23 years - USA TODAY",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd1ZFSGtwZTEyamx4QlFEbXkzQjJDeEt1QzBfSVZsSm9EOFl3M1o2VFZtMElQN2lIdU9rR2lDZWtvWURZRlU4TkY0ZEZENWgxejNQMXpmWF84ZE1iTWlDWXRWN0k2QXRIM1dIa2NTLWlYOFJ4enJ4RTBwZWJlSnBTNndqaXRUQVRiVkY4RFV0WVNXTHFWaW1IX1JWcTBRbXhwdW5QUmhTaXpMLWpUenBaTFdaTTUtZw?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-08-02T01:22:24Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "The Associated Press",
+        "title": "US recognizes opposition candidate González as the winner of Venezuela's presidential election - The Associated Press",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQkRQSkFCbjA1elVheVpndVhwcldXaXNoU3hndkhfbWUwWE5NU3FZaG5kYmg2TnpvRnZGU3FiODlPRkpFVUJRU2l4M0p6MkUzaV9FOU5HRWdVZkZPT1RoQUluYUEzcHBhVDBhQllWbEk3S3NMNmxHN0ZZRmpDWGhrYjVJRFNMTVhVaERPVTNzV19VOHppSUF6UlNmME9JRGpGZE9oUHkzRWxqOWRrd1dxZA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-08-02T01:11:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "The Washington Post",
+        "title": "Don Lemon is suing Elon Musk over his canceled X partnership - The Washington Post",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQN3Q1UFhMZXdEMDVrYUs0RkVGVVdpa09CS2JPSEFWZjlIX1UtTFlhWjA2SG13bVNERGxmZG5PYUk4ZnNoLUJsNmd4QVc0eENMbzFfQ3dOMFZBYzRUYzBYNlBPR1pLamNPd3A3akxVeXZLb09CQS16NUNCVXQ4VHFXRzhzQlFNcjFo?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-08-01T23:55:43Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "GSMArena.com",
+        "title": "Leaked Google Pixel 9 Pro Fold promo video shows it opening fully flat - GSMArena.com news - GSMArena.com",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWWE4MnQ3d2w4SXpPNWZScmhFaTVwZ1E5WllBR0xBQjdQeWpBTzVnYlFRUkNUbllCeTdGMS1qdF9XUnBmenpVc3pob0xfdXVOSHhkVTk4Y2tvM0tJUERpMmJKa2p2RVpRQy1qYXFob0hmdE1IbVhfcEdBNEdYNENDakFCRnFod0hZOENaRElIM2RMamdrNlhEVGh1SEtPVVNjb3Nlam0zNDRnNU5KNExr0gGrAUFVX3lxTE5HQUlheXktdWNrN01qbVYtWGh4YjFJc3NjZ3FuQ2FGLWEyVEx0NHFpUlR3anNjUmtyQ2VoSk1nOW5lR3JndXI1SEdLLVFLWGJJUjQ1STdpTzFWbUh0azRCUmtkczNudFFhMDZuemVyT2RNUFVFend1cnFnU0F4YU5ja21sX0RGaGNkcUNEVnJfYkRMbkg3WldYNDdqeFp4ZW4tbDNYTS1WaURrNA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-08-01T23:31:01Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "CNBC",
+        "title": "Amazon says distraction of Olympics, Trump assassination attempt contributed to weak forecast - CNBC",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOamU2M3hDbGpTWmdZaW1mWDg5LUp0VS1PZjRDODR4LXNVREhqQUZyYkpzdi03UXhkM21rbjFwQ2pXLUdwY1hMdUx6OThOem9ta29ac0h1NU1aQkJKSWJsWVU1RDAyb201QkN5LXJneWZPNXZfdjBlT0E5TzNyMUQ0cjFhb0UwVEZWQWFzWU9XcC1jZDVKaXprLUlOZFRSS0dUUEZpMHFtYWXSAa4BQVVfeXFMTURiSWkzdThoMno5bGlYRTZIcEF1ME1VcTNJTmNnazFhUnlHN3ZabmFJeE50c2JiWENZUndtaWlWOXZrbWkzdk9iU3dxYm5LWjBxR1MxR1QyYV9haFV0b2RYd1FMSmhBalJDNGhrSnJqa2tvWWhvZWI5azZVZEwzbjg3ekpOQlFzQUo0UlROMkk3UHpfcWx0ajBVeHNhZ3Vjb241RzIwVnowbFoxMFl3?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-08-01T23:22:44Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "ars-technica",
+          "name": "Ars Technica"
+        },
+        "author": "Eric Berger",
+        "title": "NASA says it is “evaluating all options” for the safe return of Starliner crew - Ars Technica",
+        "description": "SpaceX is actively working on a plan to fly Starliner's crew home.",
+        "url": "https://arstechnica.com/space/2024/08/yes-nasa-really-could-bring-starliners-astronauts-back-on-crew-dragon/",
+        "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/06/53797942971_5ae4c07feb_4k-760x380.jpg",
+        "publishedAt": "2024-08-01T22:59:45Z",
+        "content": "Enlarge/ Boeing's Starliner spacecraft is seen docked at the International Space Station on June 13.\r\n155\r\nIt has now been eight weeks since Boeing's Starliner spacecraft launched into orbit on an At… [+3075 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Matthew Cappucci",
+        "title": "The potential for a tropical rainstorm is growing for the U.S. Gulf Coast - The Washington Post",
+        "description": "Tropical Storm Debby could form in the eastern gulf this weekend and bringing heavy rain between Florida and Louisiana before heading inland.",
+        "url": "https://www.washingtonpost.com/weather/2024/08/01/tropical-storm-gulf-coast-debby/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FBY5UMBCHZDMTA7CFNL4ZXDFMA.jfif&w=1440",
+        "publishedAt": "2024-08-01T22:34:47Z",
+        "content": "Chances are increasing that a developing tropical disturbance in the Caribbean will enter the eastern Gulf of Mexico, intensify and threaten areas along the coast, probably between Florida and Louisi… [+281 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Liz Kocan",
+        "title": "Bears vs. Texans: How to watch the 2024 Pro Football Hall of Fame Game tonight - Yahoo Sports",
+        "description": "Are you ready to watch the Bears and the Texans face off for the Pro Football Hall of Fame game?",
+        "url": "https://sports.yahoo.com/bears-vs-texans-how-to-watch-the-2024-pro-football-hall-of-fame-game-tonight-152910124.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/mxM.2vLu.6tDTkoeV.r21Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-08/b30fbea0-501a-11ef-ad26-5a9604b8fbfc",
+        "publishedAt": "2024-08-01T21:45:37Z",
+        "content": "The Houston Texans and the Chicago Bears will play against each other in the 2024 Pro Football Hall of Fame Game on Thursday, August 1. (Quinn Harris/Getty Images)\r\nThe Houston Texans and the Chicago… [+2012 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "The Guardian",
+        "title": "US investors trigger major Wall Street sell-off over recession fears - The Guardian",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYUFCMkNwSUlYV1JKT2dQYU9VQ3hfZHNHWUtNWHpxaXNSX3hNblNCanNEQVZGdFNHLS1aV2g4S0RkNnJ3VW8tUTh4MFVreWNVNEFtMUdfeHMycHRhZW43RVhVVnBsYmJkQjhFRmxNbjg0QVFya3Jpdkw4ZGtEazlHZ3g1Vnc1Q2JmYm5NUF9EWS1WZXdTTG5TaHJScHRnQVdBZFEyQnBVYm1uN0NwZ1BnVNIBsAFBVV95cUxPSTNlMlN6SkFKUDFOLVJVelpjdy1oRHhFQ3FyZ0VGN04yMmdQMkJELXEzNWF0N1B5ZzZYOFVwcWRVSG8tMTJEN282RzdTWktzeTZ4Q2JHbVdPeHZ5R01UZ3ZCT0xkemZLMnpCMDdFdzJreF9TNlZjSDViU2RGU09taXJIbjVXWV93MzhnSmpYd3VLdU9nNXh0b0xGWXVvczFyWm9jTWNRQmZyMThoX09Xcw?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-08-01T21:44:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Yahoo Entertainment"
+        },
+        "author": "Dan Wetzel",
+        "title": "How Simone Biles rallied to reclaim gold in women's all-around gymnastics at Paris Olympics: 'I was stressing' - Yahoo Sports",
+        "description": "Biles became just the third woman to win the Olympic gymnastics all-around twice.",
+        "url": "https://sports.yahoo.com/how-simone-biles-rallied-to-reclaim-gold-in-womens-all-around-gymnastics-at-paris-olympics-i-was-stressing-182731761.html",
+        "urlToImage": "https://s.yimg.com/ny/api/res/1.2/R.99GbK3f4LGMOtIYfrYqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://s.yimg.com/os/creatr-uploaded-images/2024-07/9ec5de20-502e-11ef-9f3f-56480f838416",
+        "publishedAt": "2024-08-01T21:42:01Z",
+        "content": "Simone Biles and Sunisa Lee celebrate winning gold and bronze, respectively, in the Artistic Gymnastics Individual All-Around Final for Women at the Bercy Arena. (Tim Clayton/Corbis via Getty Images)… [+6282 chars]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "ABC News",
+        "title": "Algeria boxer Imane Khelif wins first Olympic fight when opponent Angela Carini quits - ABC News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQT1FYMVF4THExZ0I1YXl4SG52VXNfd1hDaDVFSzdqc1hEZ25SUW9yR2k2RmFRWUJxRnhtQkVRQzJKRkYzS2hBVU5uNUdxUGpmRmtjSzZaLTNFa19maUVXaXVHbnBjX2RRd2hwUkQwcW5wb1dCWGNpdV9lQWdjLXBFNHJzT1Nkd3JWNEd6NUhzSkx0UGEzRVBzSFNfRmlGdzdf0gGmAUFVX3lxTE4zaWIzRGo4M1czYWV0NlBGMk1Ec0NhdTZESjhtUFc3QmpOTkh1RXRPZDg1U1JEdmoxUjNDVF9jaG9nUUpFeVUydy1IbWNjWEdzc2dxSjJkYW14VldCZjM0bktGUVVGQVRsaUoxVnMxRWdZWFV4UkYxdVhodU1PSW9KRGdLWkF6bFNYd1BfN3Y2OU43Y3dkTTlyWHlfSWpPX1d4MXNvS2c?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-08-01T21:33:45Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "Hindustan Times",
+        "title": "Career Horoscope Today for August 2, 2024: Stars predict major shift in your professional life - Hindustan Times",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPR3pyd0l6OFpCOWVRVU5oMm1rcmlNMUJGOGtmdm1DSzlDYU9qd28zdnVjbHp0emd2LTRyb2dibTNVOTN4TTVaVmNlX3ZMZVRDYVFDTmk2WEdHT0h4OGNaYTJWREJlN1ZSMU1ZZEN1aGpObXN3dmRrWVhWUVdWZTU4TFIwN3p2UG94aTFtYWFwV0Z1SExwbWhIZktWWFZJeFZkNjBPbXk3RXMtRVJOMUZ6c0k3OVdWNGdSemtDWDRLckdacWdBTFUxckdhUGcxM2RjWVNCam04WWVBX0wwNVFjN0FSdGtEOUE5QnlDbDBqTTA4RWxnbktB0gH8AUFVX3lxTE96clhrcWpJRWI2bW5KdFNzUE13aGhSeWlsS1dtbmdnblVIa0FCUEJJTE9kSFR4QjR5a2NsM1hPczlkWTZPTjE3VVp0bG03Slo4V0E2TktjNDEtQi1WWnVSdmRxbUpBVzJBaUcwU3hwSzRBb0xSb05zOXV0bWZOc1B1b1Ntb0lzNThrdXF0dEtjUmdKNGlEeU9BWURZN044c3BqcHZvV0Zsd1dldFJVMnVVeEh5RzN5UWxpNTEydmViXzRDLXoyYWRmZEVGQmFrRHg3bzN2UW9wcG5ZVEVVQmhiVXJQcG5vQWlvRXlQX1hlWjZKY2t2eHZtSWJWSQ?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-08-01T21:30:17Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "E! NEWS",
+        "title": "Pregnant Cardi B Puts Baby Bump on Display in New York After Filing for Divorce From Offset - E! NEWS",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQREJQLWRCRkRibmM3R0E3cTIxcVJ0UV85MmlPdXBzeFJLMVY4R0VrMVUwYndhMEhhSXJXRUIxeDBPWnlzendSc2d5Zk91OFExV0pRVWVJNWpuUW9FSXA2WFFaVzBnM1RfUTdUM1k3V2NRelVfNWVxWDBVQm9BcHdnU2dCRlUxYndjZXkzbUZwYnpMN3Q5dWdnRi0yenZnckd0VkhnYXQwVXQ1SXkwV2l6M0hmYnVHQ01xYWktNEFkNmNhX0R6RnRZ?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-08-01T21:14:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "BBC.com",
+        "title": "Starmer announces new plan for police forces to tackle violent disorder - BBC.com",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFByTWlISmYxMm9zTGpCQ0VJOWlSWE83Q0ZBTTk0WFRIa09vREtwSlNnZmVrbW10VXZYekd2cHlmS0RQanhxakoyZVRsczM0YlF1MEx1SmNyZEZnd9IBX0FVX3lxTE8xUFJIRUNval9LTkpPMHFlX0ZRQmtiaXB1T21mZGpTRGtmYkRSZ1pZU0F0cjR6LVh4eEY4bEJDSDRNZ1UtVkU5Z2FibzhtR1I5MGZLaXl3N3ExRElCLS0w?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-08-01T21:09:29Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "[Removed]"
+        },
+        "author": null,
+        "title": "[Removed]",
+        "description": "[Removed]",
+        "url": "https://removed.com",
+        "urlToImage": null,
+        "publishedAt": "1970-01-01T00:00:00Z",
+        "content": "[Removed]"
+      },
+      {
+        "source": {
+          "id": "google-news",
+          "name": "Google News"
+        },
+        "author": "The Wall Street Journal",
+        "title": "WSJ Reporter Evan Gershkovich Is Free - The Wall Street Journal",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nQXJmMm5uRVNjMWllRHJuUGVFMmdMQl9vMVJoSVVRUFRGRzJ5VXBMbDJtOURjZHU3RzA4ekQ1a2pPOVpubGlsUjd1dDV6RmJyZ0o2VlpZckhVTWswV210M0ZkZm9wamRVNWNFVUtERS0?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-08-01T20:41:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Nimi Princewill, Stephanie Busari",
+        "title": "Violence erupts as Nigerians protest hunger across the nation - CNN",
+        "description": "Protests erupted in multiple cities across Nigeria Thursday as frustrated citizens took to the streets, voicing their anger over increasing hunger and “bad governance.”",
+        "url": "https://www.cnn.com/2024/08/01/africa/nigeria-mass-protests-against-hunger-intl/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2164110801.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-08-01T20:26:00Z",
+        "content": "Protests erupted in multiple cities across Nigeria Thursday as frustrated citizens took to the streets, voicing their anger over increasing hunger and bad governance.\r\nThe demonstrations are part of … [+5253 chars]"
+      }
+    ]
+  }
